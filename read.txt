@@ -6,3 +6,4 @@ try time
 push origin master
 checkout new branch
 solve problem
+add master
