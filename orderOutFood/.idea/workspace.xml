@@ -26,7 +26,7 @@
                 <element signature="imports" expanded="true" />
                 <element signature="e#195#203#0" expanded="true" />
                 <element signature="e#861#869#0" expanded="true" />
-                <marker date="1561705075548" expanded="true" signature="2843:2850" ph="..." />
+                <marker date="1561705938838" expanded="true" signature="2843:2850" ph="..." />
               </folding>
             </state>
           </provider>
@@ -163,12 +163,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1561687076810</updated>
-      <workItem from="1561687082281" duration="10764000" />
+      <workItem from="1561687082281" duration="10790000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10764000" />
+    <option name="totallyTimeSpent" value="10790000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -247,7 +247,7 @@
             <element signature="imports" expanded="true" />
             <element signature="e#195#203#0" expanded="true" />
             <element signature="e#861#869#0" expanded="true" />
-            <marker date="1561705075548" expanded="true" signature="2843:2850" ph="..." />
+            <marker date="1561705938838" expanded="true" signature="2843:2850" ph="..." />
           </folding>
         </state>
       </provider>
